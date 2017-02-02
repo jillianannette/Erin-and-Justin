@@ -49,7 +49,7 @@ h1,
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
+    padding-top: 30%;
     padding-bottom: 20%;
 }
 
@@ -176,4 +176,21 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+a {
+    color: #225f3b;
+}
+
+a:hover,
+a:focus {
+    color: #659b58;
+}
+
+.navbar-default .navbar-brand {
+    color: #225f3b;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #659b58;
 }
